@@ -3,7 +3,7 @@ Intro to Data Science - Sustainable Energy for All, The World Bank
 
 Predicting Renewable Energy Consumption Over Time:
 
-i.  How much will global energy efficiency increase over the next 5 years?
+i.  By how much will global energy efficiency increase over the next 5 years?
 
 ii. SE4ALL database, IEA and World Bank (https://data.worldbank.org/data-catalog/sustainable-energy-for-all)
 
